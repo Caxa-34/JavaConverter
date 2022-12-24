@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="From">From:</string>
+    <string name="To">To:</string>
+    <string name="Convert">Convert</string>
+    <string name="mm">mm</string>
+    <string name="cm">cm</string>
+    <string name="m">m</string>
+    <string name="km">km</string>
+    <string name="type">Type of units:</string>
+    <string name="length">Lenght</string>
+    <string name="volume">Volume</string>
+    <string name="mass">Mass</string>
+    <string name="square">Square</string>
+</resources>
